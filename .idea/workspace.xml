@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d9a582f-6917-45db-bed9-b53e63597862" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/homework_2/bankomat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/bankomat_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/others/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/others/fract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/others/from_int_to_hex.py" afterDir="false" />
+    <list default="true" id="8d9a582f-6917-45db-bed9-b53e63597862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_3/berlin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/mighty_bag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/repeat_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/ten_words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +54,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -189,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697358389323</updated>
       <workItem from="1697358390334" duration="2278000" />
-      <workItem from="1697360682510" duration="932000" />
+      <workItem from="1697360682510" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="first homework is done">
       <option name="closed" value="true" />
@@ -223,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697361027127</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second homework is done">
+      <option name="closed" value="true" />
+      <created>1697361758943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697361758943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +262,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hw_2" />
+                        <option value="hw_3" />
                       </list>
                     </value>
                   </entry>
@@ -271,7 +278,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first homework is done" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="second homework is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="second homework is done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_10_23$circle.coverage" NAME="circle Coverage Results" MODIFIED="1697361233756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2/others" />
