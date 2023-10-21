@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9a582f-6917-45db-bed9-b53e63597862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_3/berlin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3/mighty_bag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3/repeat_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3/ten_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_5/dict_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_5/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_5/fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_5/mult_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_5/path_split.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +27,34 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_2" />
+        <entry key="$PROJECT_DIR$" value="hw_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;MERGED&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Vano1511" />
+        <option name="repository" value="Python_10_23" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2e280c79-c5f4-4fc2-811b-d6e0a1fb768c" />
+        <option name="url" value="git@github.com:Vano1511/Python_10_23.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,17 +74,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowCommit.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/учеба/python10_23/Python_10_23",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/учеба/chatGPT/freegpt-webui",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "diff.base",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.fract">
-    <configuration name="bankomat_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.path_split">
+    <configuration name="args_to_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_2/bankomat_run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_4/args_to_keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_2/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_2/others/circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_5/dict_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_1/simple_digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_4/matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="triangle_1_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="path_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_1/triangle_1_lesson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_5/path_split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.path_split" />
+        <item itemvalue="Python.dict_generator" />
+        <item itemvalue="Python.matrix" />
+        <item itemvalue="Python.args_to_keys" />
         <item itemvalue="Python.fract" />
-        <item itemvalue="Python.circle" />
-        <item itemvalue="Python.bankomat_run" />
-        <item itemvalue="Python.triangle_1_lesson" />
-        <item itemvalue="Python.simple_digit" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +214,10 @@
       <option name="presentableId" value="Default" />
       <updated>1697358389323</updated>
       <workItem from="1697358390334" duration="2278000" />
-      <workItem from="1697360682510" duration="2197000" />
+      <workItem from="1697360682510" duration="3078000" />
+      <workItem from="1697484055947" duration="1103000" />
+      <workItem from="1697732829686" duration="20000" />
+      <workItem from="1697876593583" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="first homework is done">
       <option name="closed" value="true" />
@@ -230,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697361758943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="third homework is done">
+      <option name="closed" value="true" />
+      <created>1697363436166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697363436166</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fourth homework is done">
+      <option name="closed" value="true" />
+      <created>1697484475491</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697484475491</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +302,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -279,14 +329,20 @@
     <MESSAGE value="first homework is done" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="second homework is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="second homework is done" />
+    <MESSAGE value="third homework is done" />
+    <MESSAGE value="fourth homework is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth homework is done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_10_23$circle.coverage" NAME="circle Coverage Results" MODIFIED="1697361233756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2/others" />
     <SUITE FILE_PATH="coverage/Python_10_23$simple_digit.coverage" NAME="simple_digit Coverage Results" MODIFIED="1697358927196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
+    <SUITE FILE_PATH="coverage/Python_10_23$args_to_keys.coverage" NAME="args_to_keys Coverage Results" MODIFIED="1697484231897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_4" />
     <SUITE FILE_PATH="coverage/Python_10_23$guess_the_number.coverage" NAME="guess_the_number Coverage Results" MODIFIED="1697360322123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
     <SUITE FILE_PATH="coverage/Python_10_23$triangle_1_lesson.coverage" NAME="triangle_1_lesson Coverage Results" MODIFIED="1697358993723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
+    <SUITE FILE_PATH="coverage/Python_10_23$path_split.coverage" NAME="path_split Coverage Results" MODIFIED="1697876659213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_5" />
+    <SUITE FILE_PATH="coverage/Python_10_23$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1697484290454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_4" />
     <SUITE FILE_PATH="coverage/Python_10_23$fract.coverage" NAME="fract Coverage Results" MODIFIED="1697361374315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2/others" />
     <SUITE FILE_PATH="coverage/Python_10_23$bankomat_run.coverage" NAME="bankomat_run Coverage Results" MODIFIED="1697361190664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2" />
+    <SUITE FILE_PATH="coverage/Python_10_23$dict_generator.coverage" NAME="dict_generator Coverage Results" MODIFIED="1697876626319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_5" />
   </component>
 </project>
