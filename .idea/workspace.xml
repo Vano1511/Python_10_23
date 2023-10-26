@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9a582f-6917-45db-bed9-b53e63597862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_5/dict_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/mult_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/path_split.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_4" />
+        <entry key="$PROJECT_DIR$" value="hw_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +34,6 @@
     }
   ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;MERGED&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
@@ -71,6 +65,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowCommit.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
@@ -84,7 +79,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.path_split">
+  <component name="RunManager" selected="Python.sorting_files">
     <configuration name="args_to_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,28 +116,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_5/dict_generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_10_23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_2/others" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_2/others/fract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,13 +168,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sorting_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_10_23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_7/sorting_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sorting_files" />
         <item itemvalue="Python.path_split" />
         <item itemvalue="Python.dict_generator" />
         <item itemvalue="Python.matrix" />
         <item itemvalue="Python.args_to_keys" />
-        <item itemvalue="Python.fract" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +213,8 @@
       <workItem from="1697484055947" duration="1103000" />
       <workItem from="1697732829686" duration="20000" />
       <workItem from="1697876593583" duration="362000" />
+      <workItem from="1698128316452" duration="709000" />
+      <workItem from="1698356831702" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="first homework is done">
       <option name="closed" value="true" />
@@ -275,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697484475491</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sixth homework is done">
+      <option name="closed" value="true" />
+      <created>1698128580669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698128580669</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,9 +336,11 @@
     <MESSAGE value="second homework is done" />
     <MESSAGE value="third homework is done" />
     <MESSAGE value="fourth homework is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth homework is done" />
+    <MESSAGE value="sixth homework is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="sixth homework is done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_10_23$sorting_files.coverage" NAME="sorting_files Coverage Results" MODIFIED="1698356964269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_7" />
     <SUITE FILE_PATH="coverage/Python_10_23$circle.coverage" NAME="circle Coverage Results" MODIFIED="1697361233756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2/others" />
     <SUITE FILE_PATH="coverage/Python_10_23$simple_digit.coverage" NAME="simple_digit Coverage Results" MODIFIED="1697358927196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
     <SUITE FILE_PATH="coverage/Python_10_23$args_to_keys.coverage" NAME="args_to_keys Coverage Results" MODIFIED="1697484231897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_4" />
