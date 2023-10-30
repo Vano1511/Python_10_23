@@ -1,0 +1,17 @@
+name,parent,type,size
+homework_8,Python_10_23,directory,2125
+id_and_levels.py,Python_10_23,file,1839
+users.json,Python_10_23,file,286
+__init__.py,Python_10_23,file,0
+observe_directory,homework_8,directory,2290
+observe_dir.py,homework_8,file,2290
+reports,observe_directory,directory,9683
+homework_6_report.csv,observe_directory,file,135
+homework_6_report.json,observe_directory,file,390
+homework_6_report.pickle,observe_directory,file,161
+homework_8_report.csv,observe_directory,file,614
+homework_8_report.json,observe_directory,file,1789
+homework_8_report.pickle,observe_directory,file,591
+lesson_6_report.csv,observe_directory,file,1103
+lesson_6_report.json,observe_directory,file,3750
+lesson_6_report.pickle,observe_directory,file,1150

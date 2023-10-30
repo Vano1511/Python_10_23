@@ -1,0 +1,98 @@
+[
+    {
+        "name": "homework_8",
+        "parent": "Python_10_23",
+        "type": "directory",
+        "size": 2125
+    },
+    {
+        "name": "id_and_levels.py",
+        "parent": "Python_10_23",
+        "type": "file",
+        "size": 1839
+    },
+    {
+        "name": "users.json",
+        "parent": "Python_10_23",
+        "type": "file",
+        "size": 286
+    },
+    {
+        "name": "__init__.py",
+        "parent": "Python_10_23",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "observe_directory",
+        "parent": "homework_8",
+        "type": "directory",
+        "size": 2290
+    },
+    {
+        "name": "observe_dir.py",
+        "parent": "homework_8",
+        "type": "file",
+        "size": 2290
+    },
+    {
+        "name": "reports",
+        "parent": "observe_directory",
+        "type": "directory",
+        "size": 9683
+    },
+    {
+        "name": "homework_6_report.csv",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 135
+    },
+    {
+        "name": "homework_6_report.json",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 390
+    },
+    {
+        "name": "homework_6_report.pickle",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 161
+    },
+    {
+        "name": "homework_8_report.csv",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 614
+    },
+    {
+        "name": "homework_8_report.json",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 1789
+    },
+    {
+        "name": "homework_8_report.pickle",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 591
+    },
+    {
+        "name": "lesson_6_report.csv",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 1103
+    },
+    {
+        "name": "lesson_6_report.json",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 3750
+    },
+    {
+        "name": "lesson_6_report.pickle",
+        "parent": "observe_directory",
+        "type": "file",
+        "size": 1150
+    }
+]
