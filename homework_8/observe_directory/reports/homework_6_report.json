@@ -1,0 +1,20 @@
+[
+    {
+        "name": "homework_6",
+        "parent": "Python_10_23",
+        "type": "directory",
+        "size": 2072
+    },
+    {
+        "name": "8_queens.py",
+        "parent": "Python_10_23",
+        "type": "file",
+        "size": 1076
+    },
+    {
+        "name": "dates.py",
+        "parent": "Python_10_23",
+        "type": "file",
+        "size": 996
+    }
+]

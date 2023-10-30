@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9a582f-6917-45db-bed9-b53e63597862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/id_and_levels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/observe_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_6_report.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_6_report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_6_report.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_8_report.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_8_report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/observe_directory/reports/homework_8_report.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_8/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_5" />
+        <entry key="$PROJECT_DIR$" value="hw_7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,25 +71,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowCommit.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/учеба/chatGPT/freegpt-webui",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "diff.base",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowCommit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/учеба/FastAPI_Flask&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;diff.base&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.sorting_files">
+}</component>
+  <component name="RunManager">
     <configuration name="args_to_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_10_23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +224,9 @@
       <workItem from="1697732829686" duration="20000" />
       <workItem from="1697876593583" duration="362000" />
       <workItem from="1698128316452" duration="709000" />
-      <workItem from="1698356831702" duration="449000" />
+      <workItem from="1698356831702" duration="665000" />
+      <workItem from="1698396726122" duration="208000" />
+      <workItem from="1698704487615" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="first homework is done">
       <option name="closed" value="true" />
@@ -280,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698128580669</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="seventh homework is done">
+      <option name="closed" value="true" />
+      <created>1698357358139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698357358139</updated>
+    </task>
+    <task id="LOCAL-00010" summary="seventh homework is done">
+      <option name="closed" value="true" />
+      <created>1698357496288</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698357496288</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,12 +365,14 @@
     <MESSAGE value="third homework is done" />
     <MESSAGE value="fourth homework is done" />
     <MESSAGE value="sixth homework is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="sixth homework is done" />
+    <MESSAGE value="seventh homework is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="seventh homework is done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_10_23$sorting_files.coverage" NAME="sorting_files Coverage Results" MODIFIED="1698356964269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_7" />
+    <SUITE FILE_PATH="coverage/Python_10_23$sorting_files.coverage" NAME="sorting_files Coverage Results" MODIFIED="1698704567718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_7" />
     <SUITE FILE_PATH="coverage/Python_10_23$circle.coverage" NAME="circle Coverage Results" MODIFIED="1697361233756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_2/others" />
     <SUITE FILE_PATH="coverage/Python_10_23$simple_digit.coverage" NAME="simple_digit Coverage Results" MODIFIED="1697358927196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
+    <SUITE FILE_PATH="coverage/Python_10_23$observe_dir.coverage" NAME="observe_dir Coverage Results" MODIFIED="1698705059700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_8/observe_directory" />
     <SUITE FILE_PATH="coverage/Python_10_23$args_to_keys.coverage" NAME="args_to_keys Coverage Results" MODIFIED="1697484231897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_4" />
     <SUITE FILE_PATH="coverage/Python_10_23$guess_the_number.coverage" NAME="guess_the_number Coverage Results" MODIFIED="1697360322123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
     <SUITE FILE_PATH="coverage/Python_10_23$triangle_1_lesson.coverage" NAME="triangle_1_lesson Coverage Results" MODIFIED="1697358993723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_1" />
